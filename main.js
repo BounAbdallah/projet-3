@@ -14,7 +14,7 @@ document.querySelector("#generer").addEventListener("click", () => {
       "- Le prophète Muhammad (صل الله عليه وسلم) ": '"La vraie richesse d\'un homme en ce monde se mesure au bien qu\'il a fait autour de lui."',
       "-  Ibn'Arabî": '"C\'est par le Nom de Dieu, le Tout-Miséricordieux, le Très-Miséricordieux que je commence, et par Sa Lumière que je me dirige. Et \"il n\'y a de force et de puissance que par Dieu, le Puissant, le Sage.\" Dis : \"Louange à Dieu pour ce qu\'Il a inspiré, et parce qu\'Il nous a enseigné ce que nous ne savions pas, et la faveur de Dieu pour nous fut immense !\" Et que Dieu prie sur le Seigneur le plus noble, à qui furent donnés les sommes des Paroles (jawâmi\' al-kalim) dans la station suprême (al-mawqif al-\'azham), et qu\'Il lui accorde le salut !"',
       "- Ibn Majah": '"Abandonnez le désir de ce monde, et Dieu vous aimera. Abandonnez le désir des biens des autres et les gens vous aimeron."',
-      "- ❤️😇❤️ ": '":Merci on se dis à la prochaine IN CHA ALLAH 🤲🏽👋🏽."',
+      "- ❤️😇❤️ ": '"Merci on se dit à la prochaine IN CHA ALLAH 🤲🏽👋🏽."',
       
     };
   
